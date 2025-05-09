@@ -2,6 +2,10 @@
 
 Log-In basierte WebApp zum Tracken von Kastenschulden im Teamsport
 
+## Sprache/Language
+
+In diesem Projekt kann es passieren, dass keine einheitliche Sprache verwendet wird. Das hat höchst wahrscheinlich nichts zu bedeuten, sondern liegt schlicht an Gewohnheiten.
+
 ## Idee
 
 Im Teamsport ist die liquide Verpflegung für Trainings und Spiele wichtig für das Teamgefühl.  
@@ -9,8 +13,9 @@ Dieses Projekt will das Problem lösen und alle Strafen, Lieferungen, etc. sicht
 
 ## Technologie
 
-Im Fokus steht natürlich eine Lösung zu liefern, aber ich nutze es auch, um meine Fähigkeiten zu schärfen, weshalb für das Frontend derzeit React vorgesehen ist.  
-Das Backend wird in Python entwickelt werden
+Der geplante Tech-Stack ist: go + htmx
+
+Disclaimer: Ich bin neu in go und dementsprechend kann der Code Sicherheitslücken enthalten! :danger:
 
 ## Repository Struktur
 
